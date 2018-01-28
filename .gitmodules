@@ -12,3 +12,6 @@
 [submodule "tensorflow"]
 	path = tensorflow
 	url = https://github.com/ArmstrongYang/tensorflow.git
+[submodule "images"]
+	path = images
+	url = https://github.com/ArmstrongYang/ShareImages.git
