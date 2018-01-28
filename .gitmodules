@@ -6,3 +6,6 @@
     path = models
     url = https://github.com/ArmstrongYang/ShareModels.git
     branch = master
+[submodule "data"]
+	path = data
+	url = https://github.com/ArmstrongYang/ShareData.git
