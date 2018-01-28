@@ -15,3 +15,6 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/ArmstrongYang/ShareImages.git
+[submodule "papers"]
+	path = papers
+	url = https://github.com/ArmstrongYang/SharePapers.git
