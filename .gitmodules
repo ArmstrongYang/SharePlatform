@@ -3,5 +3,6 @@
     url = https://github.com/ArmstrongYang/caffe.git
     branch = master
 [submodule "models"]
-	path = models
-	url = https://github.com/ArmstrongYang/ShareModels.git
+    path = models
+    url = https://github.com/ArmstrongYang/ShareModels.git
+    branch = master

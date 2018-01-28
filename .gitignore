@@ -1,3 +1,15 @@
+# temp
+temp/
+temp
+
+# config
+cfg/
+config/
+
+# lmdb
+lmdb/
+lmdb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
