@@ -18,3 +18,6 @@
 [submodule "papers"]
 	path = papers
 	url = https://github.com/ArmstrongYang/SharePapers.git
+[submodule "mxnet"]
+	path = mxnet
+	url = https://github.com/apache/incubator-mxnet.git
