@@ -14,7 +14,7 @@
 	url = https://github.com/ArmstrongYang/tensorflow.git
 [submodule "images"]
 	path = images
-	url = https://github.com/ArmstrongYang/ShareImages.git
+	url = git@121.196.213.107:dong.yang/ShareImages.git
 [submodule "papers"]
 	path = papers
 	url = https://github.com/ArmstrongYang/SharePapers.git
