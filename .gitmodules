@@ -17,7 +17,7 @@
 	url = git@121.196.213.107:dong.yang/ShareImages.git
 [submodule "papers"]
 	path = papers
-	url = https://github.com/ArmstrongYang/SharePapers.git
+	url = git@121.196.213.107:dong.yang/SharePapers.git
 [submodule "mxnet"]
 	path = mxnet
 	url = https://github.com/apache/incubator-mxnet.git
