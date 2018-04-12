@@ -1,23 +1,28 @@
 [submodule "caffe"]
     path = caffe
-    url = https://github.com/ArmstrongYang/caffe.git
+    url = git@121.196.213.107:dong.yang/caffe.git
     branch = master
 [submodule "models"]
     path = models
-    url = https://github.com/ArmstrongYang/ShareModels.git
+    url = git@121.196.213.107:dong.yang/ShareModels.git
     branch = master
 [submodule "data"]
-	path = data
-	url = https://github.com/ArmstrongYang/ShareData.git
+    path = data
+    url = git@121.196.213.107:dong.yang/ShareData.git
+    branch = master
 [submodule "tensorflow"]
-	path = tensorflow
-	url = https://github.com/ArmstrongYang/tensorflow.git
+    path = tensorflow
+    url = git@121.196.213.107:dong.yang/tensorflow.git
+    branch = master
 [submodule "images"]
-	path = images
-	url = git@121.196.213.107:dong.yang/ShareImages.git
+    path = images
+    url = git@121.196.213.107:dong.yang/ShareImages.git
+    branch = master
 [submodule "papers"]
-	path = papers
-	url = git@121.196.213.107:dong.yang/SharePapers.git
+    path = papers
+    url = git@121.196.213.107:dong.yang/SharePapers.git
+    branch = master
 [submodule "mxnet"]
-	path = mxnet
-	url = https://github.com/apache/incubator-mxnet.git
+    path = mxnet
+    url = git@121.196.213.107:dong.yang/mxnet.git
+    branch = master
